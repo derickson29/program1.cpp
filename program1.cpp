@@ -1,5 +1,4 @@
 //Dakota Erickson
-// J762Q949
 //Program 1
 // Inventory management program
 
